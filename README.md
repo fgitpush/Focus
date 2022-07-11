@@ -1,5 +1,5 @@
 # Focus
-Stuff I got to focus on
+Stuff I got to focus on  
 https://github.com/fgitpush/Awesome-Laravel-Education  
 https://github.com/fgitpush/learning-oop-in-php  
 https://github.com/fgitpush/SQL  
